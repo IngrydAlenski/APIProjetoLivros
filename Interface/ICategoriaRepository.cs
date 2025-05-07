@@ -2,11 +2,14 @@
 
 namespace APIProjetoLivros.Interface
 {
-    public class ICategoriaRepository
+    public interface ICategoriaRepository
     {
-        List<Categoria>ListarTodos();
-
-        Livro 
-
+        // Assincrono - Task (Tarefa)
+        //Sincrono
+        List<Categoria>ListsrTodos();
+        Task<List<Categoria>> ListarTodosAsync();
+        void Cadastrar(Categoria categoria);    
+        Categoria?Atualizar(int id, Categoria categoria);
+        Categoria? Deletar (int id);    
     }
 }

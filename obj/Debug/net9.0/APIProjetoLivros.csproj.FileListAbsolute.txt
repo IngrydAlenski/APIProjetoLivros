@@ -170,3 +170,4 @@ C:\Users\FIC\Desktop\Ingryd\APIProjetoLivros\APIProjetoLivros\obj\Debug\net9.0\A
 C:\Users\FIC\Desktop\Ingryd\APIProjetoLivros\APIProjetoLivros\obj\Debug\net9.0\APIProjetoLivros.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\FIC\Desktop\Ingryd\APIProjetoLivros\APIProjetoLivros\obj\Debug\net9.0\APIProjetoLivros.sourcelink.json
 C:\Users\FIC\Desktop\Ingryd\APIProjetoLivros\APIProjetoLivros\obj\Debug\net9.0\APIProje.657BCC45.Up2Date
+C:\Users\FIC\Desktop\Ingryd\APIProjetoLivros\APIProjetoLivros\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
